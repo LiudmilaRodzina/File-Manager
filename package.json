@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-filemanager",
+  "version": "1.0.0",
+  "description": "File Manager inplementation using Node.js (22.x.x version (22.9.0 or upper))",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "cli",
+    "filemanager"
+  ],
+  "author": "liudmilarodzina",
+  "license": "ISC"
+}
